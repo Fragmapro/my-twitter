@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: 2px;
+}
+
+.row {
+    padding: px;
+}
+.barra {
+    background-color: blueviolet;
+}
+.cajaborde {
+    border-radius: 1px;
+    background-color: rgb(199, 20, 20);
+    height: 10000px;
+
+}
+.cajaborde2 {
+    border-radius: 1px;
+    background-color: rgb(220, 206, 233);
+    width: 150px;
+    height: 10000px;
+   
+
+}
+.cajaborde3 {
+    border-radius: 1px;
+    background-color: brown;
+    height: 10000px;
+
+}
